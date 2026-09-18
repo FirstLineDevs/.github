@@ -1,6 +1,6 @@
 # 👋 First Line Devs
 
-Um ponto de encontro para devs iniciantes
+Um ponto de encontro para devs iniciantes.
 
 ## 🎯 Sobre
 
