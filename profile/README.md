@@ -1,12 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# 👋 First Line Devs
 
-**Here are some ideas to get you started:**
+### Um ponto de encontro para devs iniciantes
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+---
+
+## 🎯 Sobre
+
+A **First Line Devs** reúne pessoas que estão começando na programação, para praticar, aprender e evoluir juntas.
+
+## 🚀 Como participar
+
+Peça acesso à organização e comece a contribuir com seus projetos e exercícios.
+
+---
+
+<div align="center">
+
+**Todo mundo começa em algum lugar. Bora codar? 🚀**
+
+</div>
